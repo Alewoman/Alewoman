@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yemima Aleman
-- 👀 I’m interested in Web Development using JavaScript
+- 👀 I’m interested in Web Development using JavaScript/ Typescript
 - 🌱 I’m currently learning Web Development with Angular and REACT
 - 💞️ I’m looking to collaborate on any open source Projects
 - 📫 How to reach me nakapelyemima@gmail.com
